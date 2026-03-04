@@ -1,0 +1,32 @@
+# --- Original settings (Large files & Raw data) ---
+*.dcd
+data/md_raw/
+*.tar
+runs/
+*.zip
+
+# --- Standard exclusions (Essential) ---
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+*.pyc
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# --- Model weights and Datasets ---
+# Exclude by default to save space.
+# Note: Use `git add -f best_model.pt` to include specific files manually.
+*.pt
+*.pth
+*.ckpt
+data/
+.venv/
+data/
+runs/
