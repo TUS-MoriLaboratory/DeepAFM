@@ -2,7 +2,7 @@
 
 ## Overview
 
-Official implementation of **"Estimating Protein Conformational States from High-Speed AFM Images Using Molecular Dynamics and Deep Learning"** ()
+Official implementation of **"Estimating Protein Conformational States from High-Speed AFM Images Using Molecular Dynamics and Deep Learning"** (in revision)
 
 This repository provides a framework for HS-AFM image analysis of protein dynamics, with a focus on denoising and conformational state estimation. By integrating molecular dynamics (MD) simulations, AFM image generation that mimics experimental conditions (including temporal lag effects between line scans), and Vision Transformer models, DeepAFM enables:
 
