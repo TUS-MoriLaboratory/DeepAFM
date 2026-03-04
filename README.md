@@ -124,7 +124,7 @@ If you use this code in your research, please cite:
 ## Contact
 
 For questions or issues:
-- Open an issue on [GitHub Issues](https://github.com/kasatou/DeepAFM/issues)
+- Open an issue on [GitHub Issues](https://github.com/TUS-MoriLaboratory/DeepAFM/issues)
 - Email: t.mori@rs.tus.ac.jp
 
 ---
