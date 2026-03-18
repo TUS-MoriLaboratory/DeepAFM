@@ -26,7 +26,7 @@ This repository provides a framework for HS-AFM image analysis of protein dynami
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kasatou/DeepAFM
+   git clone https://github.com/TUS-MoriLaboratory/DeepAFM
    cd DeepAFM
    ```
 
